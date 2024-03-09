@@ -8,14 +8,6 @@ const messages = [
     url: "https://www.youtube.com/embed/s8muxst31cw?si=AzIeE_1S5z856kan&amp;clip=Ugkx4yiKbI26uIpaRaaFRo0Nc3u-GizUZRjY&amp;clipt=EMC7ARiIoQI",
   },
   {
-    title: "",
-    body: "",
-    from: "",
-    person: "",
-    embed: "image",
-    url: "./star.png",
-  },
-  {
     title: "Congratulations!!",
     body: "So happy for your growing family! Hope the rest of your pregnancy and delivery will be safe and stress-free, and that you would have quality time to rest and be with your new baby post-partum! Sending my love and support to you from afar <3",
     from: "",
