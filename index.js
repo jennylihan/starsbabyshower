@@ -57,6 +57,12 @@ const messages = [
     from: "",
     person: "~Seimi",
   },
+  {
+    title: "CONGRATS STAR (AND NICK)!!!!",
+    body: "Incredibly happy for you guys, and sending you best wishes for the next (exciting) chapter of your lives! Can’t wait to meet gummy bear and watch her grow into an amazing person just like you!! ",
+    from: "",
+    person: "- Cindy",
+  },
 ];
 
 document.addEventListener("DOMContentLoaded", function () {
